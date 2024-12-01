@@ -1,0 +1,11 @@
+.venv/
+.idea/
+
+assets/dataset/test_images/
+assets/dataset/train_images/
+assets/dataset/val_images/
+
+models/sam_vit_h_4b8939.pth
+models/yolo11n.pt
+
+*.cache
